@@ -1,0 +1,14 @@
+{
+  "name": "photo-carousel",
+  "version": "1.0.0",
+  "description": "demo code for Building Apps with esbuild",
+  "main": "src/app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
